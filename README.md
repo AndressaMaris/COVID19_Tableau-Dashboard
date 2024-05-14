@@ -1,2 +1,2 @@
 # COVID19_Tableau-Dashboard
-This project uses Tableau for showcasing COVID 19 numbers through a Dashboard. The data is sourced from Our World in Data, after some calculations done using SQL.
+This project contains an interactive Tableau dashboard that provides a comprehensive visualization of COVID-19 data trends and metrics. It is designed to help public health professionals, researchers, and the general public understand the pandemic's impact through intuitive and dynamic visual representations.
